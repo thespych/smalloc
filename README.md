@@ -1,2 +1,2 @@
 # smalloc
-A general purpose free list memory allocator
+A general purpose, free list memory allocator
