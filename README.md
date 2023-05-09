@@ -1,6 +1,4 @@
-===================================================================================
-                                    smalloc
-===================================================================================
+smalloc
 
 smalloc is a general purpose memory allocator optimized for efficient searching and
 reduced fragmentation. Implementing a free list, smalloc manages allocations by
